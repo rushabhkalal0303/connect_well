@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218668020431",
+    "project_id": "connect-well-aa75f",
+    "storage_bucket": "connect-well-aa75f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218668020431:android:b07f6ac578ce5954acbdba",
+        "android_client_info": {
+          "package_name": "com.example.connect_well"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfkZwnU66NePQhTVt0Lzt7kK-i1pql6b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
